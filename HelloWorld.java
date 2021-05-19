@@ -1,4 +1,4 @@
-package ejercicio;
+
 
 public class HolaMundo {
 	private int[] sueldos;
